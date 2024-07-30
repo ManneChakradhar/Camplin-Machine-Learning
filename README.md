@@ -1,1 +1,1 @@
-# Camplin-Machine-Learning
+# Titanic Survival Project
